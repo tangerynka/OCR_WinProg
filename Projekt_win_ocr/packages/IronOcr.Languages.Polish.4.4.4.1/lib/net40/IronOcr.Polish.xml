@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IronOcr.Polish</name>
+    </assembly>
+    <members>
+        <member name="T:IronOcr.Languages.Polish">
+            <summary>
+              Polish (język polski, polszczyzna) Language Pack for IronOcr.  
+              <para> Requires IronOcr to be of value http://ironsoftware.com/csharp/ocr/ </para>
+              <example><code>IronOcr.Language = IronOcr.Languages.Polish.OcrLanguagePack</code></example>
+            </summary>
+        </member>
+        <member name="P:IronOcr.Languages.Polish.LanguageCode">
+            <exclude />
+        </member>
+        <member name="M:IronOcr.Languages.Polish.Deploy(System.String)">
+            <exclude />
+        </member>
+        <member name="M:IronOcr.Languages.Polish.ToString">
+            <exclude />
+        </member>
+        <member name="P:IronOcr.Languages.Polish.OcrLanguagePack">
+            Polish (pol) Language pack for IronOcr
+        </member>
+    </members>
+</doc>
